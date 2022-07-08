@@ -1,0 +1,2 @@
+- Hi, I’m @rojasotilio and ’m looking to study/develop/use basic numerical methods, and those useful for wave propagation simulations. 
+- You can reach at rojasotilio@gmail.com
